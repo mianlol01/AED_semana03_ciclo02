@@ -1,0 +1,8 @@
+INDEX VERSION 1.134+C:\Users\snake\Desktop\AED_semana_03\.metadata\.plugins\org.eclipse.jdt.core
+3276021434.index
+759857046.index
+1795540227.index
+1865797976.index
+469955989.index
+2232132655.index
+1515015936.index
